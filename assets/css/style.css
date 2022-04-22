@@ -1,0 +1,123 @@
+body {
+    width: 990px;
+    margin: auto;
+    position: relative;
+    text: white;
+    background-color: grey;
+    top: 30;
+    left: 0;
+    z-index: 30;
+    box-sizing: border-box;
+}
+
+body h1 {
+    background-color: #9932CC;
+
+    color: white;
+    padding-top: 20px;
+}
+
+body h2 {
+    background-color: #9932CC;
+    color: white;
+    display: block;
+    padding: auto;
+}
+
+header {
+    width: 990px;
+    margin: auto;
+    position: relative;
+    background-color: #9932CC;
+    top: 30;
+    left: 0;
+    z-index: 1;
+    box-sizing: border-box;
+    
+}
+
+.image {
+    max-width: 11%;
+    max-height: 12%;
+}
+
+.name {
+    display: inline-block;
+    position: absolute;
+    margin: 10px;
+}
+
+.name h1 {
+margin: 0;
+padding: 0;
+color: white;
+}
+
+.coordonne {
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 170px;
+    float: right;
+    margin-top: 10px;
+}
+
+header nav {
+    position: absolute;
+    bottom: -33px;
+}
+
+header nav ul {
+    width: 990px;
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    box-sizing: border-box;
+    background-color: #9932CC;
+}
+
+header nav ul li {
+    display: inline-block;
+    position: relative;
+    margin-left: 65px;
+}
+
+header nav ul li a {
+    color: white;
+    display: block;
+    padding: 10px 15px;
+	margin: 0px 10px;
+    text-decoration: none;
+}
+
+.facebook {
+    display: inline-block;
+    float: right;
+    margin-right: -128px;
+    margin-top: 22px;
+    max-width: 16%;
+  }
+
+
+body p {
+    background-color: #9932CC;
+    color: white;
+    font-size-adjust: 10;
+}
+
+.formulaire {
+    width: 990px;
+    position: relative;
+    top: 100;
+    left: 0;
+    z-index: 1;
+    box-sizing: border-box;
+    color: white;
+    background-color: #9932CC;
+}
+
+.planning{
+    background-color: #9932CC;
+}
