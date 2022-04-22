@@ -3,7 +3,7 @@ body {
     margin: auto;
     position: relative;
     text: white;
-    background-color: grey;
+    background-color:   grey;
     top: 30;
     left: 0;
     z-index: 30;
@@ -12,7 +12,6 @@ body {
 
 body h1 {
     background-color: #9932CC;
-
     color: white;
     padding-top: 20px;
 }
@@ -130,4 +129,17 @@ body h3 {
 
 .U12 {
     max-width: 70%;   
+}
+
+footer {
+    background-color: #9932CC;
+    color: white;
+    text-align: center;
+    font: 14px Arial, Helvetica, sans-serif;
+    padding: 30px 20px;
+    margin: 40px 0px;
+}
+
+.accueil-body{
+    background-color: #9932CC;
 }
