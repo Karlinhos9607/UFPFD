@@ -110,12 +110,18 @@ body p {
 .formulaire {
     width: 990px;
     position: relative;
-    top: 100;
-    left: 0;
-    z-index: 1;
-    box-sizing: border-box;
     color: white;
     background-color: #9932CC;
+}
+
+body ul {
+    background-color: #9932CC;
+    color: white;
+}
+
+body h3 {
+    background-color: #9932CC;
+    color: white;
 }
 
 .planning{
